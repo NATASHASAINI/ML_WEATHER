@@ -1,4 +1,6 @@
-# Introduction
+<h1># Weather Forecasting Using Machine Learning </h1>
+
+
 Weather forecasting is a critical application with significant impact on daily life, agriculture, transportation, and emergency planning. This project aims to leverage historical weather data and machine learning techniques to predict future weather conditions, specifically focusing on forecasting the next day's maximum temperature. By systematically cleaning, preparing, and engineering features from real-world weather datasets, and applying regression models, the project seeks to demonstrate how data-driven approaches can enhance the accuracy and reliability of short-term weather predictions. The ultimate goal is to build a robust, interpretable model that can serve as a foundation for more advanced forecasting systems.
 
 <b>Step 1: Data Collection</b>
